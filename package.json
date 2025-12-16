@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "frist-react-app",
+=======
+  "name": "react-test",
+>>>>>>> master
   "private": true,
   "version": "0.0.0",
   "type": "module",
