@@ -1,19 +1,10 @@
-<<<<<<< HEAD
-import FirstComponent from "./components/FirstComponent";
+import MainPage from "./components/MainPage"
 
-function App() {
-  return (
-    <div>
-      <FirstComponent />
-    </div>
-  );
-}
-
-export default App;
-=======
  function App() {
-  return <h1>THis My Webpage</h1>;
+  return <div><h1>THis My Webpage</h1>;
+  
+  <MainPage/>
+  </div>
 }
 
-export default App;
->>>>>>> master
+export default App
